@@ -11,8 +11,7 @@ If you want to train the model yourself
 ```powershell
 pip install -r requirements.txt
 ```
-<br>
-</br>
+/
 Generate n chess boards then split them each into 64 pieces
 ```powershell
 python training_data_generator.py
