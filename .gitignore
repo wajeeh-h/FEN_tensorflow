@@ -1,5 +1,5 @@
-lib/__pycache__
-lib/images_board/*
-lib/images_pieces/*
+**/__pycache__
+**/images_board
+**/images_pieces
 .idea/
 venv/
