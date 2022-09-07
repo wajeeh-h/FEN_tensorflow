@@ -7,17 +7,15 @@
 # Cloning/Training
 If you want to train the model yourself
 
-- Import your own PNGs or generate them with: 
+- Import your own PNGs or generate them: 
 ```powershell
 pip install -r requirements.txt
 ```
-
-
-
 Generate n chess boards then split them each into 64 pieces
 ```powershell
 python training_data_generator.py
 ```
+<br>
 Create a new model and train it with the data we just created
 ```powershell
 python create_model.py
