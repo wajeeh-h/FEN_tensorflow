@@ -3,12 +3,14 @@
 # Usage
 - Upload your PNG to the website 
 - Wait for the model to evaluate the input
-- Enjoy
 
 # Cloning/Training
 If you want to train the model yourself
 
 - Import your own PNGs or generate them with: 
+```python
+pip install -r requirements.txt
+```
 ```python
 python training_data_generator.py
 ```
