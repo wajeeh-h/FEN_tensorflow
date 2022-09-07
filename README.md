@@ -1,5 +1,9 @@
 # FEN_tensorflow
 
+# TODO
+- Finish the website
+- Refactor code
+
 # Usage
 - Upload your PNG to the website 
 - Wait for the model to evaluate the input
