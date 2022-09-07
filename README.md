@@ -6,8 +6,9 @@
 
 # Cloning/Training
 If you want to train the model yourself
-
 - Import your own PNGs or generate them: 
+
+Install Requirements
 ```powershell
 pip install -r requirements.txt
 ```
