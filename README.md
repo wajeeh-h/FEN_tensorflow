@@ -8,17 +8,17 @@
 If you want to train the model yourself
 
 - Import your own PNGs or generate them with: 
-```python
+```powershell
 pip install -r requirements.txt
 ```
-```python
+```powershell
 python training_data_generator.py
 ```
-```python
+```powershell
 python create_model.py
 ```
 Then convert the model to one usable by TensorFlowJS
-```sh
+```powershell
 pip install tensorflowjs
 tensorflowjs_converter --input_format tf_saved_model [path to models/] [output dir]
 ```
