@@ -13,6 +13,7 @@ pip install -r requirements.txt
 ```
 
 
+
 Generate n chess boards then split them each into 64 pieces
 ```powershell
 python training_data_generator.py
