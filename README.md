@@ -6,6 +6,7 @@
 
 # Results
 ![Input](https://i.ibb.co/RY1x4tf/image.png)
+
 Output: r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R
 ![Output](https://i.ibb.co/zspzKcz/image.png)
 
