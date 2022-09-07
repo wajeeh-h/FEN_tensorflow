@@ -16,5 +16,5 @@ python create_model.py
 Then convert the model to TensorflowJS
 ```sh
 pip install tensorflowjs
-tensorflowjs_converter --input_format tf_saved_model --output_for mat tfjs_graph_model [path to models/] [output dir]
+tensorflowjs_converter --input_format tf_saved_model [path to models/] [output dir]
 ```
