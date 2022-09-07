@@ -1,0 +1,5 @@
+lib/__pycache__
+lib/images_board/*
+lib/images_pieces/*
+.idea/
+venv/
