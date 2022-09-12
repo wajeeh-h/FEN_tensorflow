@@ -10,7 +10,8 @@ def load_tiles(tiles):
     labels = []
     for tile in tiles:
         piece = tile[-5]
-        assert piece in util.FEN
+        if not piece in util.FEN:
+            continue
         images.append(np.array
                       (tf.image.resize
                        ((tf.image.convert_image_dtype
