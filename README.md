@@ -40,6 +40,3 @@ Convert the model to one usable by TensorFlowJS .pb -> JSON
 pip install tensorflowjs
 tensorflowjs_converter --input_format tf_saved_model [path to models/] [output dir]
 ```
-
-# Acknowledgements
-- Inspiration from [ChessboardFenTensorflowJs](https://github.com/Elucidation/ChessboardFenTensorflowJs) by [Elucidation](https://github.com/Elucidation)
